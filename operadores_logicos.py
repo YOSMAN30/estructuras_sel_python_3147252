@@ -10,3 +10,7 @@
  #Ejemplo 1: operadores not:
 y=not True 
 print("el resultado de operar con not es " ,y)
+
+#Ejemplo 2: operador and:
+y = True and True 
+print("el resultado de operar con and es " ,y)
